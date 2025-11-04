@@ -1,8 +1,10 @@
 # SQL Notes of Fundamentals | Leetcode SQL 50 Answer and Reminder
 
 ## Project Overview
-This repository contains SQL course notes based on the course "Code With Mosh" by **@Mosh-Hamedani**.  
-Video source: https://www.bilibili.com/video/BV1UE41147KC?spm_id_from=333.788.videopod.episodes&vd_source=4a2974481e8331236abeffcdebb0e934  
+This repository contains SQL course notes based on the course "Code With Mosh" by @mosh-hamedani.  
+Video source (unknown authorization): https://www.bilibili.com/video/BV1UE41147KC?spm_id_from=333.788.videopod.episodes&vd_source=4a2974481e8331236abeffcdebb0e934   
+  
+For those who need course materials, please check out the folder.
 
 ### Course Structure
 
@@ -34,7 +36,7 @@ Video source: https://www.bilibili.com/video/BV1UE41147KC?spm_id_from=333.788.vi
 ## Project Scope
 The SQL Notes only include the first two parts of the fundamental and intermediate SQL syntax, as well as additional notes on Views (Ch7), Indexes (Ch14), and Window Functions that are not covered in the course.  
 
-For the complete notes of the entire course, please refer to **@JiaqiFan42**: https://zhuanlan.zhihu.com/p/222865842  
+For the complete notes of the entire course, please refer to @JiaqiFan42: https://zhuanlan.zhihu.com/p/222865842  
 Language: Chinese  
   
 **Leetcode SQL 50 Problem Set**: https://leetcode.com/studyplan/top-sql-50/  
