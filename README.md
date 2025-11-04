@@ -1,10 +1,20 @@
 # SQL Notes of Fundamentals | Leetcode SQL 50 Solutions and Reminders
 
 ## Project Overview
-This repository contains SQL course notes based on the course "Code With Mosh" by @mosh-hamedani.  
-Video source (unknown authorization): https://www.bilibili.com/video/BV1UE41147KC?spm_id_from=333.788.videopod.episodes&vd_source=4a2974481e8331236abeffcdebb0e934   
+The SQL Notes only include the first two parts of the fundamental and intermediate SQL syntax, as well as additional notes on Views (Ch7), Indexes (Ch14), and Window Functions that are not covered in the course.   
   
-For those who seek course materials, please check out the folder.
+**Leetcode SQL 50 Problem Set**: https://leetcode.com/studyplan/top-sql-50/  
+**Chinese Version**: https://leetcode.cn/studyplan/sql-free-50/ 
+
+## Project Sources
+This repository contains SQL course notes based on the course "Code With Mosh" by @mosh-hamedani.  
+Video source (beware of unknown authorization):  
+https://www.bilibili.com/video/BV1UE41147KC?spm_id_from=333.788.videopod.episodes&vd_source=4a2974481e8331236abeffcdebb0e934   
+
+For those who seek course materials, please check out the folder.  
+
+For those who seek the complete notes of the entire course, please refer to the article written by @JiaqiFan42, noting that the language of the link is Chinese: https://zhuanlan.zhihu.com/p/222865842  
+ 
 
 ### Course Structure
 
@@ -31,16 +41,7 @@ For those who seek course materials, please check out the folder.
 - Chapter 12: Data Types (35 min)  
 - Chapter 13: Designing Databases (1h 30min)  
 - Chapter 14: Indexing for High Performance (58 min)  
-- Chapter 15: Securing Databases (20 min)
-
-## Project Scope
-The SQL Notes only include the first two parts of the fundamental and intermediate SQL syntax, as well as additional notes on Views (Ch7), Indexes (Ch14), and Window Functions that are not covered in the course.  
-
-For the complete notes of the entire course, please refer to the article written by @JiaqiFan42: https://zhuanlan.zhihu.com/p/222865842  
-Language: Chinese  
-  
-**Leetcode SQL 50 Problem Set**: https://leetcode.com/studyplan/top-sql-50/  
-**Chinese Version**: https://leetcode.cn/studyplan/sql-free-50/  
+- Chapter 15: Securing Databases (20 min) 
 
 ## Notes
 **ALL** notes, solutions and reminders are **independently written by the author**.  
